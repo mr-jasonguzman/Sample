@@ -1,2 +1,2 @@
-# Sample
+# Sample Android Repository
 Sample repository
